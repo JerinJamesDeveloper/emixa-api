@@ -42,7 +42,7 @@ const users = [
 ];
 
 // Login endpoint
-app.post('/login', (req, res) => {
+app.post('api/login', (req, res) => {
   try {
     const { email, password } = req.body;
 
