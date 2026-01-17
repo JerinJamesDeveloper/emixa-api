@@ -23,7 +23,7 @@ const users = [
     email: 'user@example.com',
     first_name: 'Regular',
     last_name: 'User',
-    password: 'user123',
+    password: 'User@123#',
     role: 'user',
     status: 'active',
     is_email_verified: true,
